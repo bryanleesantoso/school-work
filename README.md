@@ -1,2 +1,2 @@
 # school-work
-School projects from University
+School projects from City University of Hong Kong
